@@ -41,7 +41,7 @@
     "@angular/compiler": "^4.4.6",
     "@angular/core": "^4.4.6",
     "@angular/platform-browser": "^4.4.6",
-    "@angular/platform-browser-dynamic": "^4.4.6",
+    "@angular/platform-browser-dynamic": "^5.0.1",
     "@angular/compiler-cli": "^4.4.6",
     "canonical-path": "0.0.2",
     "concurrently": "^3.5.0",
